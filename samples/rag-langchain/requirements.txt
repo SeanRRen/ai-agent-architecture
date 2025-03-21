@@ -1,0 +1,9 @@
+pdfplumber
+dashscope
+chromadb
+rank_bm25
+jieba
+FlagEmbedding 
+sentence_transformers
+langchain
+langchain_community
